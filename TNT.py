@@ -99,7 +99,7 @@ def set_wind_direction(direction, button):
 
 # 创建主窗口
 root = tk.Tk()
-root.title("力度查询工具")
+root.title("TNT屏距风速力度计算工具")
 root.geometry("500x650")
 root.config(bg="#e0f7fa")  # 设置背景色
 
